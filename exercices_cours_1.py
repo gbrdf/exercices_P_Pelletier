@@ -41,7 +41,7 @@ def nth_prime(nth):
 
  print(primes[nth-1])
  
-nth_prime(1)                            #test de la fonction nth_prime définit ci-dessus.
+nth_prime(1)                            #test de la fonction nth_prime définie ci-dessus.
 
 print(nth_prime(10001))
 
